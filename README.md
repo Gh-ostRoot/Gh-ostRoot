@@ -8,16 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=360&height=44&lines=Available...static();I%20survived%20rm%20-rf%20%2F." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  **About Me**
 
 Homegrown from Malawi,
 
-🌱 &nbsp;I'm currently learning **Cyber Security, Automation, Data Science,**  
-🔭 &nbsp;I'm currently working on **Full Stack Web Development, Mobile App Development**  
-😄 &nbsp;Pronouns: **I'm Him**  
-⚡ &nbsp;Fun fact: **I archived my C: Drive**
+ &nbsp;I'm currently learning **Cyber Security, Automation, Data Science,**  
+ &nbsp;I'm currently working on **Full Stack Web Development, Mobile App Development**  
+ &nbsp;Pronouns: **I'm Him**  
+ &nbsp;Fun fact: **I archived my C: Drive**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -51,24 +51,24 @@ Homegrown from Malawi,
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 📊 GitHub Stats
+### Status Report:
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Gh-ostRoot&show_icons=true&theme=tokyonight&title_color=aa92d9&icon_color=aa92d9&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Gh-ostRoot&layout=compact&theme=tokyonight&title_color=aa92d9&icon_color=aa92d9&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Commits:
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gh-ostRoot&bg_color=00000000&color=aa92d9&line=aa92d9&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### Words Of WisdoM
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Gh-ostRoot">Gh-ostRoot</a></i></p>
+<p align="center"><i>Yours Truly <a href="https://github.com/Gh-ostRoot">Gh-ostRoot</a></i></p>
